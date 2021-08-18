@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2021-08-17_11-20-42" tag="">
+  <assembly name="UnitTestWeb">
+    <class name="UnitTestWeb.Controllers.TRN.TRNController" coveredlines="164" coverablelines="205" totallines="527" coveredbranches="51" totalbranches="66" />
+    <class name="UnitTestWeb.Controllers.WeatherForecastController" coveredlines="5" coverablelines="5" totallines="21" coveredbranches="0" totalbranches="0" />
+    <class name="UnitTestWeb.Extensions.StringExtensions" coveredlines="3" coverablelines="3" totallines="15" coveredbranches="0" totalbranches="0" />
+    <class name="UnitTestWeb.Models.MessageModel" coveredlines="11" coverablelines="11" totallines="25" coveredbranches="0" totalbranches="0" />
+    <class name="UnitTestWeb.Models.TRN1001Req" coveredlines="7" coverablelines="12" totallines="59" coveredbranches="0" totalbranches="0" />
+    <class name="UnitTestWeb.Models.TRN1001Res" coveredlines="7" coverablelines="7" totallines="40" coveredbranches="0" totalbranches="0" />
+    <class name="UnitTestWeb.Program" coveredlines="0" coverablelines="8" totallines="26" coveredbranches="0" totalbranches="0" />
+    <class name="UnitTestWeb.Startup" coveredlines="0" coverablelines="26" totallines="56" coveredbranches="0" totalbranches="2" />
+    <class name="UnitTestWeb.WeatherForecast" coveredlines="0" coverablelines="4" totallines="15" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>
