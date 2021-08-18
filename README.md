@@ -1,6 +1,7 @@
 # UnitTestWeb
 
-run test project and create xml ,then create code covered report.
+Run test project and create xml.
+Finally, create unit testing code coverage report.
 
 * ## 2 Methods
 
