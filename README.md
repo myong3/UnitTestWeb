@@ -1,9 +1,15 @@
 # UnitTestWeb
 
-## run test project and create xml ,then create code covered report.
+run test project and create xml ,then create code covered report.
 
-* # 2 Methods
-1. Reportgenerator
+* ## 2 Methods
+
+ ### 1. Reportgenerator
+
+install Nuget:
+
+1. cover.collector
+2. Reportgenerator
 
 cmd:
 
@@ -11,7 +17,14 @@ ReportGenerator -reports:"C:\Study\myCSharpProject\UnitTestImplementation\UnitTe
 
 ---------------------------------------
 
-2. MSBuild + Reportgenerator(含history xml)
+ ### 2. MSBuild + Reportgenerator(含history xml)
+
+install Nuget:
+
+1. coverlet.msbuild
+2. cover.collector
+3. Reportgenerator
+
 
 Test專案檔加入
 ```
