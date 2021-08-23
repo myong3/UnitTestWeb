@@ -37,7 +37,7 @@ Test專案檔加入
   </Target>
 ```
   
-cdm:
+cmd:
 
 dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=cobertura /p:CoverletOutput="./results/"
   
